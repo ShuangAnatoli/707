@@ -1,0 +1,6 @@
+transformers
+torch
+torchvision
+torchaudio
+discord
+python-dotenv

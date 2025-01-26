@@ -1,3 +1,4 @@
+run pip install -r requirements.txt
 ## Connecting to Discord
 - You need to create an app in Discord Developer Forum.
 - Get the token under the bot tab. (You might need to resest the token since it can only be viewed once.)
